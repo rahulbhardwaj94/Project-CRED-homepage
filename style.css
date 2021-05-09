@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black ;
+}
+
+
+
+.title-container{
+    height: 5em;
+    display: flex;
+}
+
+.cred-logo{
+    margin: 0 0 0 40px;
+}
+
+.img-cred-IPL-logo{
+    margin: 20px 0 0 30px ;
+    width: 160px;
+    height: 70px;
+    cursor: pointer;
+}
+
+
+.btn-cred-x-IPL{
+    margin: 12px 30px 0 750px;
+    padding: 20px 65px;
+    font: 'Gilroy-regular', sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    border: none;
+    color: rgb(184, 179, 179);
+    cursor: pointer;
+    justify-content: space-between;
+    line-height: 36px;
+}
+
+.superscript-new{
+    padding: 1px 2px;
+    color: rgb(245, 236, 236);
+    background: rgb(112, 111, 111);
+    border: 1px solid white ;
+    border-radius: 5px;
+    font-size: 8px;
+}
+
+.btn-download-cred-title{
+    background: black;
+    color: white;
+    border: 1px solid white;
+    margin-left: 0;
+    margin-top: 20px;
+    padding: 15px 55px;
+    font-size: 18px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.main-text{
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 60px 200px 200px;
+    padding-bottom: 0;
+    font-size: 160px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    color: white;
+    align-items: center;
+    /* background: darkblue; */
+    justify-content: space-between;
+    line-height: 155px;
+    letter-spacing: -3px;
+
+}
+
+.main-text-2{
+    padding-left: 120px;
+}
+
+.sub-main-text{
+    margin-left: 16em;
+    padding: 50px;
+    padding-top: 0;
+    font-size: 32px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    color: white;
+    align-items: center;
+    line-height: 2;
+}
+
+.btn-download-cred{
+    background: white;
+    /* margin: 58px 0 0; */
+    margin-left: 33em;
+    padding: 20px 65px;
+    font-size: 25px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    border: none;
+    border-radius: 50px;
+    line-height: 1;
+    cursor: pointer;
+
+}
